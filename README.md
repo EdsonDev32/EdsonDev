@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! seja bem vindo ao meu Github, meu nome é Edson e eu sou Desenvolvedor Front End.....</h2>
+<h2 align="left">Hi 👋! seja bem vindo ao meu Github, meu nome é Edson e sou Desenvolvedor Front End.....</h2>
 
 ###
 
